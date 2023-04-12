@@ -1,0 +1,6 @@
+media_folder: "images/uploads"
+collections:
+  -
+backend:
+  name: git-gateway
+  branch: master
